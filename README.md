@@ -126,12 +126,3 @@ O ideal é utilizar variáveis de ambiente para armazenar informações sensíve
 
 Este projeto foi desenvolvido para praticar **automação de tarefas**, manipulação de arquivos CSV e integração entre Python e aplicações web através de automação de interface.
 
-## 🔮 Possíveis melhorias
-
-* Utilizar variáveis de ambiente para as credenciais
-* Substituir coordenadas fixas por identificação de elementos
-* Adicionar tratamento de erros
-* Criar logs para acompanhar os cadastros realizados
-* Adicionar validação dos dados do CSV
-* Criar uma interface para selecionar o arquivo CSV
-* Detectar automaticamente quando uma página terminou de carregar
